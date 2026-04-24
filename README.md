@@ -50,19 +50,85 @@
 
 ## 🧩 Tech Stack
 
-### 💻 Languages & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,spring,mysql,redis,kafka,docker,elasticsearch" />
-</p>
+## 🧩 Tech Stack
 
-### 🧠 AI / LLM / RAG
-<p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge"/>
-</p>
+<table>
+  <tr>
+    <th width="28%">Category</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🗄️ Database & Cache</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🤖 LLM Frameworks</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🧩 Agent Systems</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🧠 Vector DBs</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ChromaDB-5A0FC8?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🎯 RAG & Search</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>📨 Message Queue</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🛠️ DevOps & Tools</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
