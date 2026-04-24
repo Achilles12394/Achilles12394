@@ -9,14 +9,8 @@
 <h1 align="left">Heyuan Chen</h1>
 
 <p align="left">
-华南理工大学软件学院大四 ｜ 准新加坡国立大学计算机工程研究生
+华南理工大学SCUT软件学院大四 ｜ 准新加坡国立大学计算机工程研究生
 </p>
-
-<p align="left">
-热衷于构建高质量、有价值的系统，专注于大模型应用与后端开发，
-致力于将 AI 技术与工程实践深度结合，解决真实世界问题。
-</p>
-
 ---
 
 <!-- 联系方式 -->
@@ -27,7 +21,7 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Achilles12394">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 <a href="#">
@@ -56,16 +50,15 @@ GPA: 3.54 / 4（前25%）
 ### 🎓 新加坡国立大学（NUS）
 
 计算机工程（硕士）
-2026 入学
+2026 Fall
 
 </td>
-
 <td width="33%">
 
 ### 🎯 研究方向
 
 大模型应用（RAG / Agent）
-后端系统 & 分布式系统
+后端系统
 
 </td>
 </tr>
@@ -80,7 +73,6 @@ GPA: 3.54 / 4（前25%）
 <td align="center" width="25%">
 
 ### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 
 </td>
