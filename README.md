@@ -50,8 +50,18 @@
 
 ## 🧩 Tech Stack
 
+### 💻 Languages & Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,spring,mysql,redis,kafka,docker,chroma,milvus,llamaindex" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,spring,mysql,redis,kafka,docker,elasticsearch" />
+</p>
+
+### 🧠 AI / LLM / RAG
+<p align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge"/>
 </p>
 
 ---
