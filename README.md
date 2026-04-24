@@ -9,11 +9,11 @@
 ## 🧠 About Me
 
 
-华南理工大学软件工程学院2022级
-新加坡国立大学重庆研究院（311本硕联培）
-新加坡国立大学计算机工程26Fall
-Currently Focus on AI-assisted adaptive learning
-Tutor：Prof.Rajesh Panicker Nusricq
++ 华南理工大学软件工程学院2022级
++ 新加坡国立大学重庆研究院（311本硕联培）
++ 新加坡国立大学计算机工程26Fall
++ Currently Focus on AI-assisted adaptive learning
++ Tutor：Prof.Rajesh Panicker Nusricq
 + 🎓 B.E. in Software Engineering @ South China University of Technology (SCUT)
 + 🎓 M.E. in Computer Engineering @ National University of Singapore (NUS)
 + 🚀 AI Engineer focused on RAG / Agent / LLM systems
