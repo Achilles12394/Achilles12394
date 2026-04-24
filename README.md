@@ -20,8 +20,7 @@
 + 🎓 B.E. in Software Engineering @ South China University of Technology (SCUT)
 + 🎓 M.E. in Computer Engineering @ National University of Singapore (NUS)
 + 🚀 AI Engineer focused on RAG / Agent / LLM systems
-+ ⚙️ Strong backend engineering mindset (scalability, reliability)
-+ 🎯 Target: LLM / Backend Engineer (Big Tech)
++ 🎯 Target: LLM / Backend Engineer
 ```
 
 ---
